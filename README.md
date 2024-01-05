@@ -1,4 +1,4 @@
-# Welcome to Signiance Technologies LLP on GitHub
+# Welcome to Signiance Technologies on GitHub
 
 👋 Hi, we're @SignianceTech, your cloud innovation specialists.
 
